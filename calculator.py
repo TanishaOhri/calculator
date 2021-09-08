@@ -30,6 +30,7 @@ def div():
     f_num=int(first_num)
     ent.delete(0,END)
     global calc
+    global a
     calc=3
 
 def mul():
